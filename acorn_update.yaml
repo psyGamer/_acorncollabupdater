@@ -4,8 +4,8 @@ AcornCollabCode:
   GameBananaType: Mod
   GameBananaId: 0
   GameBananaFileId: 0
-  Version: '0.7.0'
-  LastUpdate: 1725707650
-  Size: 577696
+  Version: '0.7.1.1'
+  LastUpdate: 1736057909
+  Size: 577744
   xxHash:
-  - 86ad450b219ffc21
+  - f4ddc623f1c0685a
